@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiestacitu01tacigoog_0010.png"; bbox 0 0 2261 3684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 749 1761 1303 1884">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 749 1761 1303 1884">
+     <span class='ocr_line' id='line_1_1' title="bbox 749 1761 1274 1807; baseline -0.019 2"><span class='ocrx_word' id='word_1_1' title='bbox 749 1768 751 1770; x_wconf 73' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 826 1765 946 1807; x_wconf 67' lang='lat' dir='ltr'><strong>rix-st</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 962 1762 1146 1804; x_wconf 73' lang='lat' dir='ltr'><strong>Edition</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1164 1761 1274 1800; x_wconf 82' lang='lat'><strong>1890.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 799 1827 1303 1884; baseline -0.018 -9"><span class='ocrx_word' id='word_1_5' title='bbox 799 1829 1042 1884; x_wconf 73' lang='lat' dir='ltr'>Reprinted</span> <span class='ocrx_word' id='word_1_6' title='bbox 1060 1829 1173 1879; x_wconf 81' lang='lat'><strong>1896,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1194 1827 1303 1868; x_wconf 89' lang='lat'><strong>1898.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 514 3193 1618 3279">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 514 3193 1618 3279">
+     <span class='ocr_line' id='line_1_3' title="bbox 514 3193 1618 3226; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 514 3194 731 3225; x_wconf 75' lang='lat' dir='ltr'>GLASGow</span> <span class='ocrx_word' id='word_1_9' title='bbox 739 3204 749 3226; x_wconf 68' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 770 3196 969 3225; x_wconf 72' lang='lat' dir='ltr'>PRm&#39;raD</span> <span class='ocrx_word' id='word_1_11' title='bbox 990 3196 1050 3224; x_wconf 73' lang='lat' dir='ltr'><strong>AT</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1069 3195 1165 3223; x_wconf 73' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1186 3194 1461 3223; x_wconf 70' lang='lat' dir='ltr'><strong>umvnxsrrv</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1479 3193 1618 3222; x_wconf 75' lang='lat' dir='ltr'>PRssss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 692 3248 1449 3279; baseline 0.003 -2"><span class='ocrx_word' id='word_1_15' title='bbox 692 3248 752 3277; x_wconf 73' lang='lat' dir='ltr'><strong>m!</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 772 3250 954 3278; x_wconf 73' lang='lat' dir='ltr'>ROBERT</span> <span class='ocrx_word' id='word_1_17' title='bbox 975 3250 1252 3279; x_wconf 72' lang='lat' dir='ltr'>MACLEHOSR</span> <span class='ocrx_word' id='word_1_18' title='bbox 1270 3249 1361 3277; x_wconf 72' lang='lat' dir='ltr'><strong>Am)</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 1381 3249 1449 3279; x_wconf 82' lang='lat' dir='ltr'><strong>CO·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1139 3391 1228 3404">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1139 3391 1228 3404">
+     <span class='ocr_line' id='line_1_5' title="bbox 1139 3391 1228 3404; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 1139 3391 1228 3404; x_wconf 51' lang='grc' dir='ltr'><strong>,ψΗἼ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
